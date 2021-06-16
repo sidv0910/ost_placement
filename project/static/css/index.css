@@ -1,0 +1,12 @@
+.container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.table {
+    width: 85%;
+}
+
+.container .row .first {
+    border-right: 2px solid black;
+}
